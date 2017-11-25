@@ -30,8 +30,4 @@
 [Pix2Pix Online Demos](https://affinelayer.com/pixsrv/)
 
 ### TensorFlow Workshop Examples
-[Basic Example]()
-[Working with variables]()
-[Working with placeholders]()
-[A learning model]()
-[Understanding MNIST]()
+[Deep & Wide Learning](https://github.com/tensorflow/models/tree/master/official/wide_deep)
