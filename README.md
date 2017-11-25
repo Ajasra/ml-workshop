@@ -1,5 +1,7 @@
 # Machine Learning Workshop
 
+#### [Workshop Slides](https://docs.google.com/presentation/d/1o8W-XmDIJCLVN4j2E9OmhFYWfu-BWgFS1nsj7Tbeoms)
+
 ### Online resources
 [Facets, Machine Learning data visualization](pair-code.github.io/facets)
 
@@ -19,7 +21,9 @@
 
 [MNIST For ML Beginners](https://www.tensorflow.org/get_started/mnist/beginners)
 
-[TensorBoard, TensorFlow graph visualization(https://www.tensorflow.org/versions/master/get_started/summaries_and_tensorboard)
+[TensorBoard, TensorFlow graph visualization](https://www.tensorflow.org/versions/master/get_started/summaries_and_tensorboard)
+
+[Online MNIST Demo](http://www.denseinl2.com/webcnn/digitdemo.html)
 
 ### TensorFlow Workshop Examples
 [Basic Example]()
