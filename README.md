@@ -13,11 +13,13 @@
 
 [Installing TensorFlow](https://www.tensorflow.org/install)
 
-[Getting Started with TensorFlow]()
+[Installing NumPy with Conda](https://anaconda.org/anaconda/numpy)
 
-[MNIST For ML Beginners]()
+[Getting Started with TensorFlow](https://www.tensorflow.org/get_started/get_started)
 
-[TensorBoard, TensorFlow graph visualization]()
+[MNIST For ML Beginners](https://www.tensorflow.org/get_started/mnist/beginners)
+
+[TensorBoard, TensorFlow graph visualization(https://www.tensorflow.org/versions/master/get_started/summaries_and_tensorboard)
 
 ### TensorFlow Workshop Examples
 [Basic Example]()
