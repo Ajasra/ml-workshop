@@ -25,6 +25,8 @@
 
 [Online MNIST Demo](http://www.denseinl2.com/webcnn/digitdemo.html)
 
+[Pix2Pix Online Demos](https://affinelayer.com/pixsrv/)
+
 ### TensorFlow Workshop Examples
 [Basic Example]()
 [Working with variables]()
