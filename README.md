@@ -11,6 +11,8 @@
 
 ### Data files
 
+[Decision Tree Data](https://docs.google.com/spreadsheets/d/1nFjFy0afzaZo_MtPATnQO3WFeUIkb8r6UKFnAULanlA/edit?usp=sharing)
+
 ### TensorFlow Installation and References
 
 [Installing TensorFlow](https://www.tensorflow.org/install)
