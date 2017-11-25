@@ -31,3 +31,5 @@
 
 ### TensorFlow Workshop Examples
 [Deep & Wide Learning](https://github.com/tensorflow/models/tree/master/official/wide_deep)
+
+[Saving & Serving Models](https://github.com/tensorflow/serving/blob/master/tensorflow_serving/example/mnist_saved_model.py)
