@@ -1,5 +1,7 @@
 # Machine Learning Workshop
 
+#### [Workshop Slides](https://docs.google.com/presentation/d/1o8W-XmDIJCLVN4j2E9OmhFYWfu-BWgFS1nsj7Tbeoms)
+
 ### Online resources
 [Facets, Machine Learning data visualization](pair-code.github.io/facets)
 
