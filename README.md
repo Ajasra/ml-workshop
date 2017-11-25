@@ -21,7 +21,9 @@
 
 [MNIST For ML Beginners](https://www.tensorflow.org/get_started/mnist/beginners)
 
-[TensorBoard, TensorFlow graph visualization(https://www.tensorflow.org/versions/master/get_started/summaries_and_tensorboard)
+[TensorBoard, TensorFlow graph visualization](https://www.tensorflow.org/versions/master/get_started/summaries_and_tensorboard)
+
+[Online MNIST Demo](http://www.denseinl2.com/webcnn/digitdemo.html)
 
 ### TensorFlow Workshop Examples
 [Basic Example]()
