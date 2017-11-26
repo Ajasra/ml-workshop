@@ -3,9 +3,9 @@
 #### [Workshop Slides](https://docs.google.com/presentation/d/1o8W-XmDIJCLVN4j2E9OmhFYWfu-BWgFS1nsj7Tbeoms)
 
 ### Online resources
-[Facets, Machine Learning data visualization](pair-code.github.io/facets)
+[Facets, Machine Learning data visualization](http://pair-code.github.io/facets)
 
-[Neural Networks Playground](playground.tensorflow.org)
+[Neural Networks Playground](http://playground.tensorflow.org)
 
 [Google AI Experiments](https://experiments.withgoogle.com/ai)
 
@@ -16,6 +16,8 @@
 ### TensorFlow Installation and References
 
 [Installing TensorFlow](https://www.tensorflow.org/install)
+
+[TensorFlow Math Operations](https://www.tensorflow.org/api_guides/python/math_ops)
 
 [Installing NumPy with Conda](https://anaconda.org/anaconda/numpy)
 
@@ -31,3 +33,5 @@
 
 ### TensorFlow Workshop Examples
 [Deep & Wide Learning](https://github.com/tensorflow/models/tree/master/official/wide_deep)
+
+[Saving & Serving Models](https://github.com/tensorflow/serving/blob/master/tensorflow_serving/example/mnist_saved_model.py)
