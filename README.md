@@ -17,6 +17,8 @@
 
 [Installing TensorFlow](https://www.tensorflow.org/install)
 
+[TensorFlow Math Operations](https://www.tensorflow.org/api_guides/python/math_ops)
+
 [Installing NumPy with Conda](https://anaconda.org/anaconda/numpy)
 
 [Getting Started with TensorFlow](https://www.tensorflow.org/get_started/get_started)
