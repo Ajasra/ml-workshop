@@ -3,9 +3,9 @@
 #### [Workshop Slides](https://docs.google.com/presentation/d/1o8W-XmDIJCLVN4j2E9OmhFYWfu-BWgFS1nsj7Tbeoms)
 
 ### Online resources
-[Facets, Machine Learning data visualization](pair-code.github.io/facets)
+[Facets, Machine Learning data visualization](http://pair-code.github.io/facets)
 
-[Neural Networks Playground](playground.tensorflow.org)
+[Neural Networks Playground](http://playground.tensorflow.org)
 
 [Google AI Experiments](https://experiments.withgoogle.com/ai)
 
