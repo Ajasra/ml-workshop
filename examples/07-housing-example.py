@@ -58,6 +58,9 @@ def main(unused_argv):
   y_predicted = np.array(list(p['predictions'] for p in predictions))
   y_predicted = y_predicted.reshape(np.array(y_test).shape)
 
+  for i in range(y_predicted.size):
+      print(y_predicted[i], y_train[i])
+
   # Score with sklearn.
   score_sklearn = metrics.mean_squared_error(y_predicted, y_test)
   print('MSE (sklearn): {0:f}'.format(score_sklearn))
