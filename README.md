@@ -31,6 +31,8 @@
 
 [Pix2Pix Online Demos](https://affinelayer.com/pixsrv/)
 
+[Installing TensorFlow on Windows with Conda](https://stackoverflow.com/questions/38896424/tensorflow-not-found-in-pip)
+
 ### TensorFlow Workshop Examples
 [Deep & Wide Learning](https://github.com/tensorflow/models/tree/master/official/wide_deep)
 
